@@ -16,6 +16,8 @@ Example:
 | Test    |Mass-spring system vs exact cos(ωt)                                                     | 
 | Result  |Error falls ~16× per step halving (measured: 15.9×) → 4th-order convergence confirmed   |
 
+![RK4 convergence](rk4_convergence.png)
+
 # Run the test
 ```
 pip install numpy matplotlib
