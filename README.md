@@ -34,3 +34,9 @@ If pip install isn't working using following should help install libraries
   here package_name is numpy or matplot lib.
 If `python validate_rk4.py` dosen't work
   Execute/Run validate_rk4.py using Editor Toolbar
+
+# Development Environment
+
+This project was developed using `Visual Studio Code (VS Code)` and `Python 3.14.6`.
+
+The code was written, organised, and tested within the VS Code development environment.
