@@ -29,7 +29,7 @@ python validate_rk4.py
 ```
 
 # Possible Error
-If pip install isn't working using below should work help install libraries
+If pip install isn't working using following should help install libraries
   `python -m pip install package_name`
   here package_name is numpy or matplot lib.
 If `python validate_rk4.py` dosen't work
